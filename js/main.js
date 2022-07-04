@@ -12,17 +12,17 @@ if(eta < 18) {
     let sconto = prezzoBiglietto * 20  / 100; 
     let prezzoFinale = prezzoBiglietto - sconto;
     let prezzoFinaleFormattato =prezzoFinale.toFixed(2);
-    alert('prezzoFinaleFormattato');
+    alert(prezzoFinaleFormattato);
 } else if (eta > 65) {
     // calcolo 40%
 
     let sconto = prezzoBiglietto * 40  / 100; 
     let prezzoFinale = prezzoBiglietto - sconto;
     let prezzoFinaleFormattato =prezzoFinale.toFixed(2);
-    alert('prezzoFinaleFormattato');
+    alert(prezzoFinaleFormattato);
 } else {
     // nessuna operazione
-    alert('prezzoBiglietto');
+    alert(prezzoBiglietto);
 }
 
 
