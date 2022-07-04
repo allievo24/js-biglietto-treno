@@ -1,0 +1,1 @@
+const età= parseInt(prompt('Inserire età'));
