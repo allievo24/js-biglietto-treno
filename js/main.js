@@ -1,5 +1,5 @@
 
-/*
+
 
 const eta= parseInt(prompt('Inserire età'));
 const distanza= parseInt(prompt('Inserire distanza'));
