@@ -1,3 +1,6 @@
+
+/*
+
 const eta= parseInt(prompt('Inserire età'));
 const distanza= parseInt(prompt('Inserire distanza'));
 const prezzo= 0.21;
